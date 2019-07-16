@@ -1,0 +1,19 @@
+Error State: 1
+State Type: Computer turn on
+Condition: n
+
+Error State: 3
+State Type: Power Supply Unit faulty
+Condition: n
+Error State: 6
+State Type: Power Switch Working
+Condition: y
+
+Error State: 13
+State Type: Faulty Motherboard Connections
+Condition: y
+
+Error State: 15
+State Type: Replace Power Switch
+Condition: n
+

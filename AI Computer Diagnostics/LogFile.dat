@@ -1,0 +1,5 @@
+(computer_state (error_num 1) (error_type Computer turn on) (error_condition n))
+(computer_state (error_num 3) (error_type PSU faulty) (error_condition y))
+(computer_state (error_num 6) (error_type Power switch working) (error_condition y))
+(computer_state (error_num 13) (error_type Faulty Motherboard Connections) (error_condition n))
+(computer_state (error_num 15) (error_type Replace Power Switch) (error_condition Y))
